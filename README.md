@@ -1,4 +1,4 @@
-# EASY
+# Revisited-EASY
 
 Source code for "EASY Framework Revisited: Achieving Faster and More Accurate Entity Alignment".
 
@@ -25,4 +25,4 @@ Then get ASRS results.
 ## Acknowledgement
 
 We use the code and datasets of 
-[EASY](https://github.com/gawkAtCode/Revisited-EASY),
+[EASY](https://github.com/gawkAtCode/Revisited-EASY)
