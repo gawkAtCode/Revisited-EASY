@@ -1,0 +1,14 @@
+tensorflow==1.13.1
+regex==2020.11.13
+networkx==2.5
+Keras==2.2.4
+scipy==1.5.2
+tqdm==4.55.1
+transformers==4.1.1
+git+https://github.com/fwilliams/fml
+pickle5==0.0.11
+numpy==1.19.2
+graph_tool==2.11
+python_igraph==0.8.3
+python_Levenshtein==0.12.2
+scikit_learn==0.24.1
